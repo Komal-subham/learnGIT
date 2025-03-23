@@ -1,6 +1,3 @@
 this is file number 1.
-<<<<<<< HEAD
-=======
 new branch work.
 again new branch work.
->>>>>>> branchOne
